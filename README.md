@@ -127,7 +127,7 @@ digitalWrite(led3, LOW); </br>
 
 ## CIRCUIT DIAGRAM:
 
-![image](https://user-images.githubusercontent.com/132322854/236755207-6b5389fd-1adf-40b6-840c-2fc9d23b2f0c.png)
+ ![image](https://user-images.githubusercontent.com/132322854/236755207-6b5389fd-1adf-40b6-840c-2fc9d23b2f0c.png)
 
 
 ## OUTPUT:
